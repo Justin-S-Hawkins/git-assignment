@@ -1,0 +1,3 @@
+#sensative data
+*.env
+.DS_store
